@@ -29,3 +29,5 @@ FORMAT of the annotation file:
 - *A source URL* (The paragraph/The full article which contains the relation triple can be obtained from this URL)
 - *Subtype* of the triple
 - *Order*: Part-Whole / Whole-Part.
+
+Please CITE the above paper whenever this dataset is used to produce published results or incorporated into other software.
