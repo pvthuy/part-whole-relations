@@ -1,0 +1,14 @@
+<<< Distribution for PART-WHOLE relation triples - Annotated by two annotators >>>
+
+        Component-Of :   643 (11.23%)
+           Member-Of : 1,272 (22.21%)
+  	  Portion-Of :   555 ( 9.69%)
+    	    Stuff-Of : 1,082 (18.89%)
+   	  Located-In :   534 ( 9.32%)
+        Contained-In :   272 ( 4.75%)
+   	    Phase-Of :   497 ( 8.68%)
+     Participates-In :   872 (15.23%)
+  #Confusing triples :   235 (DON'T COUNT(*))
+	       TOTAL : 5,727 triples
+
+(*) For triples which have different labels by two annotators, we simply ignore and do not include them in our final dataset (we do not count 235 confusing triples).
